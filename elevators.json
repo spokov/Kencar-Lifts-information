@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Jason Gozo",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=LW-A9D1390DF&customerCode=0000100060"
+  },
+  {
+    "id": 2,
+    "name": "Showroom Lift 1",
+    "status": "Online",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10766263&customerCode=0000100060"
+  },
+  {
+    "id": 3,
+    "name": "Showroom Lift 2",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10765161&customerCode=0000100060"
+  },
+  {
+    "id": 4,
+    "name": "Qormi Small Hotel",
+    "status": "Online",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=LW-C49DEBB24&customerCode=0000100060"
+  },
+  {
+    "id": 5,
+    "name": "Birkirkara",
+    "status": "Online",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10765044&customerCode=0000100060"
+  },
+  {
+    "id": 6,
+    "name": "Balzan",
+    "status": "Online",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10764628&customerCode=0000100060"
+  },
+  {
+    "id": 7,
+    "name": "Paola",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10765043&customerCode=0000100060"
+  },
+  {
+    "id": 8,
+    "name": "Zebbug, block A",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10766440&customerCode=0000100060"
+  },
+  {
+    "id": 9,
+    "name": "Zebbug, block B",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10766439&customerCode=0000100060"
+  },
+  {
+    "id": 10,
+    "name": "Zebbug, block C",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10766438&customerCode=0000100060"
+  },
+  {
+    "id": 11,
+    "name": "SPB",
+    "status": "Online",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10778633&customerCode=0000100060"
+  },
+  {
+    "id": 12,
+    "name": "Handaq",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10778634&customerCode=0000100060"
+  },
+  {
+    "id": 13,
+    "name": "Manuel Cini - Gozo",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10779357&customerCode=0000100060"
+  },
+  {
+    "id": 14,
+    "name": "Kenneth Senglea",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10783175&customerCode=0000100060"
+  },
+  {
+    "id": 15,
+    "name": "Carl Fenech Gzira",
+    "status": "Offline",
+    "url": "https://winonedt.dataserver.cn/1.1/monitor/page/dist/index.html?elevId=N10783176&customerCode=0000100060"
+  }
+]
